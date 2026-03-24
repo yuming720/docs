@@ -6,10 +6,20 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "pages": []
+        "tab": "Untitled Tab",
+        "groups": [
+          {
+            "group": "Untitled Group",
+            "pages": [
+              "ai-sdk",
+              "artisan",
+              "authentication",
+              "blade"
+            ]
+          }
+        ]
       }
     ]
   }
