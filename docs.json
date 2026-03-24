@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "Documentation",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#2da689",
+    "light": "#041b13",
+    "dark": "#0adf58"
   },
   "navigation": {
     "tabs": [
@@ -22,5 +24,15 @@
         ]
       }
     ]
+  },
+  "fonts": {
+    "heading": {
+      "family": "Geist",
+      "weight": 600
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 200
+    }
   }
 }
