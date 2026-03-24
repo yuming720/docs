@@ -8,18 +8,36 @@
     "dark": "#0adf58"
   },
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "Untitled Tab",
-        "groups": [
+        "product": "Untitled Product",
+        "languages": [
           {
-            "group": "Untitled Group",
-            "pages": [
-              "ai-sdk",
-              "artisan",
-              "authentication",
-              "blade"
+            "language": "en",
+            "versions": [
+              {
+                "version": "Untitled Version",
+                "tabs": [
+                  {
+                    "tab": "Untitled Tab",
+                    "groups": [
+                      {
+                        "group": "Untitled Group",
+                        "pages": [
+                          "ai-sdk",
+                          "artisan",
+                          "authentication",
+                          "blade"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
             ]
+          },
+          {
+            "language": "en"
           }
         ]
       }
