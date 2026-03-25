@@ -48,6 +48,37 @@
                           "authorization",
                           "billing"
                         ]
+                      },
+                      {
+                        "item": "item",
+                        "pages": [
+                          "cashier-paddle",
+                          "context",
+                          "csrf",
+                          {
+                            "group": "Group under item",
+                            "pages": [
+                              {
+                                "group": "group under group",
+                                "pages": []
+                              },
+                              "contracts",
+                              "deployment"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "item": "item 2",
+                        "dropdowns": [
+                          {
+                            "dropdown": "dropdown under item2",
+                            "pages": [
+                              "database-testing",
+                              "documentation"
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
