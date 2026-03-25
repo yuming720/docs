@@ -1,6 +1,10 @@
 ---
 sidebarTitle: "你好啊"
 title: "eloquent-relationships"
+tag: "1，2，3，4"
+description: "阿斯顿发送到发送地方"
+keywords: ["是发疯", "时代发生的发"]
+mode: "wide"
 ---
 
 # Eloquent: Relationships
