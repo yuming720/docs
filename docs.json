@@ -8,111 +8,55 @@
     "dark": "#0adf58"
   },
   "navigation": {
-    "products": [
+    "anchors": [
       {
-        "product": "laravel",
+        "anchor": "Untitled Anchor",
         "languages": [
+          {
+            "language": "cn",
+            "pages": [
+              "database",
+              "eloquent-collections"
+            ]
+          },
           {
             "language": "en",
             "versions": [
               {
-                "version": "v1",
-                "tabs": [
-                  {
-                    "tab": "controll",
-                    "groups": [
-                      {
-                        "group": "sdk",
-                        "pages": [
-                          "ai-sdk",
-                          "artisan",
-                          "authentication",
-                          "blade"
-                        ]
-                      },
-                      {
-                        "group": "page",
-                        "pages": [
-                          "boost"
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "tab": "tools",
-                    "menu": [
-                      {
-                        "item": "Anchor 1",
-                        "pages": [
-                          "console-tests",
-                          "authorization",
-                          "billing"
-                        ]
-                      },
-                      {
-                        "item": "item",
-                        "pages": [
-                          "cashier-paddle",
-                          "context",
-                          "csrf",
-                          {
-                            "group": "Group under item",
-                            "pages": [
-                              {
-                                "group": "group under group",
-                                "pages": []
-                              },
-                              "contracts",
-                              "deployment"
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "item": "item 2",
-                        "dropdowns": [
-                          {
-                            "dropdown": "dropdown under item2",
-                            "pages": [
-                              "database-testing",
-                              "documentation"
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
+                "version": "1",
+                "pages": [
+                  "concurrency",
+                  "dusk"
                 ]
               },
               {
-                "version": "v2",
+                "version": "2",
                 "pages": [
-                  "validation"
+                  "eloquent-relationships",
+                  "envoy"
                 ]
               }
             ]
           },
           {
-            "language": "cn",
-            "anchors": [
+            "language": "en",
+            "tabs": [
               {
-                "anchor": "Untitled Anchor",
+                "tab": "tab1",
                 "pages": [
-                  "contributions",
-                  "cache",
-                  "collections",
-                  "controllers"
+                  "eloquent-serialization",
+                  "eloquent"
+                ]
+              },
+              {
+                "tab": "tab2",
+                "pages": [
+                  "encryption",
+                  "errors"
                 ]
               }
             ]
           }
-        ]
-      },
-      {
-        "product": "openapi",
-        "pages": [
-          "broadcasting",
-          "configuration"
         ]
       }
     ]
