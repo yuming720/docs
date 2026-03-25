@@ -37,6 +37,19 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "tab": "tools",
+                    "anchors": [
+                      {
+                        "anchor": "Anchor 1",
+                        "pages": [
+                          "console-tests",
+                          "authorization",
+                          "billing"
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
