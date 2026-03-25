@@ -10,28 +10,40 @@
   "navigation": {
     "products": [
       {
-        "product": "Untitled Product",
+        "product": "laravel",
         "languages": [
           {
             "language": "en",
             "versions": [
               {
-                "version": "Untitled Version",
+                "version": "v1",
                 "tabs": [
                   {
-                    "tab": "Untitled Tab",
+                    "tab": "controll",
                     "groups": [
                       {
-                        "group": "Untitled Group",
+                        "group": "sdk",
                         "pages": [
                           "ai-sdk",
                           "artisan",
                           "authentication",
                           "blade"
                         ]
+                      },
+                      {
+                        "group": "page",
+                        "pages": [
+                          "boost"
+                        ]
                       }
                     ]
                   }
+                ]
+              },
+              {
+                "version": "v2",
+                "pages": [
+                  "validation"
                 ]
               }
             ]
@@ -50,6 +62,13 @@
               }
             ]
           }
+        ]
+      },
+      {
+        "product": "openapi",
+        "pages": [
+          "broadcasting",
+          "configuration"
         ]
       }
     ]
