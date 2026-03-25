@@ -40,9 +40,9 @@
                   },
                   {
                     "tab": "tools",
-                    "anchors": [
+                    "menu": [
                       {
-                        "anchor": "Anchor 1",
+                        "item": "Anchor 1",
                         "pages": [
                           "console-tests",
                           "authorization",
