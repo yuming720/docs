@@ -37,7 +37,18 @@
             ]
           },
           {
-            "language": "en"
+            "language": "cn",
+            "anchors": [
+              {
+                "anchor": "Untitled Anchor",
+                "pages": [
+                  "contributions",
+                  "cache",
+                  "collections",
+                  "controllers"
+                ]
+              }
+            ]
           }
         ]
       }
