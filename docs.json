@@ -27,9 +27,20 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "tab2",
+        "pages": [
+          "facades-copied-1",
           {
-            "item": "ite m"
+            "group": "group",
+            "expanded": true,
+            "pages": [
+              "filesystem-copied-1",
+              "frontend-copied-1"
+            ]
           }
         ]
       }
