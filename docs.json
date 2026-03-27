@@ -8,54 +8,27 @@
     "dark": "#0adf58"
   },
   "navigation": {
-    "anchors": [
+    "tabs": [
       {
-        "anchor": "Untitled Anchor",
-        "languages": [
+        "tab": "tab1",
+        "menu": [
           {
-            "language": "cn",
+            "item": "item",
             "pages": [
-              "database",
-              "eloquent-collections"
-            ]
-          },
-          {
-            "language": "zh-Hant",
-            "versions": [
+              "facades",
+              "collections",
               {
-                "version": "1",
+                "group": "group",
                 "pages": [
-                  "concurrency",
-                  "dusk"
-                ]
-              },
-              {
-                "version": "2",
-                "pages": [
-                  "eloquent-relationships",
-                  "envoy"
+                  "filesystem",
+                  "frontend",
+                  "helpers"
                 ]
               }
             ]
           },
           {
-            "language": "en",
-            "tabs": [
-              {
-                "tab": "tab1",
-                "pages": [
-                  "eloquent-serialization",
-                  "eloquent"
-                ]
-              },
-              {
-                "tab": "tab2",
-                "pages": [
-                  "encryption",
-                  "errors"
-                ]
-              }
-            ]
+            "item": "ite m"
           }
         ]
       }
