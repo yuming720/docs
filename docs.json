@@ -55,7 +55,9 @@
           {
             "anchor": "Anchor2",
             "pages": [
-              "migrations"
+              "migrations",
+              "homestead",
+              "logging"
             ]
           }
         ]
