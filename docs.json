@@ -15,10 +15,17 @@
           "facades-copied-1",
           {
             "group": "group",
-            "expanded": true,
             "pages": [
               "filesystem-copied-1",
-              "frontend-copied-1"
+              "frontend-copied-1",
+              {
+                "group": "group inside",
+                "pages": [
+                  "folio",
+                  "eloquent-collections",
+                  "seeding"
+                ]
+              }
             ]
           }
         ]
