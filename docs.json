@@ -24,7 +24,14 @@
                 "pages": [
                   "folio",
                   "eloquent-collections",
-                  "seeding"
+                  "seeding",
+                  {
+                    "group": "group 第三层",
+                    "pages": [
+                      "collections",
+                      "helpers"
+                    ]
+                  }
                 ]
               }
             ]
