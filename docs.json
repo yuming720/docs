@@ -45,7 +45,7 @@
             "anchor": "Anchor1",
             "tabs": [
               {
-                "tab": "Tab2",
+                "tab": "anchor1-Tab2",
                 "pages": [
                   "search"
                 ]
