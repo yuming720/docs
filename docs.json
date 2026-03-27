@@ -39,13 +39,24 @@
         ]
       },
       {
-        "tab": "Untitled Tab",
+        "tab": "tab2",
         "anchors": [
           {
-            "anchor": "Untitled Anchor"
+            "anchor": "Anchor1",
+            "tabs": [
+              {
+                "tab": "Tab2",
+                "pages": [
+                  "search"
+                ]
+              }
+            ]
           },
           {
-            "anchor": "Untitled Anchor"
+            "anchor": "Anchor2",
+            "pages": [
+              "migrations"
+            ]
           }
         ]
       }
