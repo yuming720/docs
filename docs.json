@@ -37,6 +37,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Untitled Tab",
+        "anchors": [
+          {
+            "anchor": "Untitled Anchor"
+          },
+          {
+            "anchor": "Untitled Anchor"
+          }
+        ]
       }
     ]
   },
