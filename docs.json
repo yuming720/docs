@@ -10,27 +10,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "tab1",
-        "menu": [
-          {
-            "item": "item",
-            "pages": [
-              "facades",
-              "collections",
-              {
-                "group": "group",
-                "expanded": true,
-                "pages": [
-                  "filesystem",
-                  "frontend",
-                  "helpers"
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "tab": "tab2",
         "pages": [
           "facades-copied-1",
