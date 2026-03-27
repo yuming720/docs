@@ -12,9 +12,10 @@
       {
         "tab": "tab1",
         "pages": [
-          "facades-copied-1",
+          "tab1/facades-copied-1",
           {
             "group": "group",
+            "tag": "美丽",
             "pages": [
               "filesystem-copied-1",
               "frontend-copied-1",
