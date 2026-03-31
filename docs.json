@@ -8,37 +8,61 @@
     "dark": "#0adf58"
   },
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "tab1",
-        "pages": [
-          "tab1/facades-copied-1",
+        "language": "en",
+        "tabs": [
           {
-            "group": "group2",
+            "tab": "tab1",
             "pages": [
-              "editor-page-by-mintifly"
+              "tab1/facades-copied-1",
+              {
+                "group": "group2",
+                "pages": [
+                  "editor-page-by-mintifly"
+                ]
+              },
+              {
+                "group": "group",
+                "tag": "美丽",
+                "pages": [
+                  "filesystem-copied-1",
+                  "frontend-copied-1",
+                  {
+                    "group": "group inside",
+                    "expanded": true,
+                    "pages": [
+                      "folio",
+                      "eloquent-collections",
+                      "seeding",
+                      {
+                        "group": "group 第三层",
+                        "pages": [
+                          "collections",
+                          "helpers"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
             ]
           },
           {
-            "group": "group",
-            "tag": "美丽",
-            "pages": [
-              "filesystem-copied-1",
-              "frontend-copied-1",
+            "tab": "Tab3",
+            "menu": [
               {
-                "group": "group inside",
-                "expanded": true,
+                "item": "item1",
                 "pages": [
-                  "folio",
-                  "eloquent-collections",
-                  "seeding",
-                  {
-                    "group": "group 第三层",
-                    "pages": [
-                      "collections",
-                      "helpers"
-                    ]
-                  }
+                  "item1-page1",
+                  "item2-page2"
+                ]
+              },
+              {
+                "item": "item2",
+                "pages": [
+                  "item2-page1",
+                  "item2-page2-1"
                 ]
               }
             ]
@@ -46,20 +70,18 @@
         ]
       },
       {
-        "tab": "Tab3",
-        "menu": [
+        "language": "cn",
+        "dropdowns": [
           {
-            "item": "item1",
+            "dropdown": "dropdown1",
             "pages": [
-              "item1-page1",
-              "item2-page2"
+              "dropdown1-page1"
             ]
           },
           {
-            "item": "item2",
+            "dropdown": "dropdown2",
             "pages": [
-              "item2-page1",
-              "item2-page2-1"
+              "dropdown2-page1"
             ]
           }
         ]
