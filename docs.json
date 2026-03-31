@@ -70,12 +70,23 @@
         ]
       },
       {
-        "language": "cn",
+        "language": "pt-BR",
         "dropdowns": [
           {
             "dropdown": "dropdown1",
-            "pages": [
-              "dropdown1-page1"
+            "tabs": [
+              {
+                "tab": "dropdown1-tab1",
+                "pages": [
+                  "untitled-page"
+                ]
+              },
+              {
+                "tab": "dropdown1-tab2",
+                "pages": [
+                  "untitled-page"
+                ]
+              }
             ]
           },
           {
