@@ -85,6 +85,19 @@
             ]
           }
         ]
+      },
+      {
+        "language": "zh",
+        "tabs": [
+          {
+            "tab": "Untitled Tab",
+            "menu": [
+              {
+                "item": "Untitled Item"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
