@@ -68,6 +68,25 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Untitled Tab",
+        "menu": [
+          {
+            "item": "item1",
+            "pages": [
+              "item1-page1",
+              "item2-page2"
+            ]
+          },
+          {
+            "item": "item2",
+            "pages": [
+              "item2-page1",
+              "item2-page2-1"
+            ]
+          }
+        ]
       }
     ]
   },
