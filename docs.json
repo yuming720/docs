@@ -46,31 +46,7 @@
         ]
       },
       {
-        "tab": "tab2",
-        "anchors": [
-          {
-            "anchor": "Anchor1",
-            "tabs": [
-              {
-                "tab": "anchor1-Tab2",
-                "pages": [
-                  "search"
-                ]
-              }
-            ]
-          },
-          {
-            "anchor": "Anchor2",
-            "pages": [
-              "migrations",
-              "homestead",
-              "logging"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Untitled Tab",
+        "tab": "Tab3",
         "menu": [
           {
             "item": "item1",
